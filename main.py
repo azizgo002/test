@@ -13,3 +13,6 @@ def rev(s):
 
 def getFirstLetter(s):
     return s[0]
+
+def getNumber(lst):
+    return lst[0]
