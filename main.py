@@ -11,6 +11,5 @@ def fact(n):
 def rev(s):
     return s[::-1]
 
-
 def getFirstLetter(s):
     return s[0]
