@@ -7,3 +7,6 @@ def fact(n):
         f *= i
 
     return f
+
+def rev(s):
+    return s[::-1]
