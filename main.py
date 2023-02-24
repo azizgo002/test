@@ -16,3 +16,6 @@ def getFirstLetter(s):
 
 def getNumber(lst):
     return lst[0]
+
+def hello():
+    return 'Hello world'
