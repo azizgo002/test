@@ -19,3 +19,5 @@ def getNumber(lst):
 
 def hello():
     return 'Hello world'
+
+# gitda nima gaplar
